@@ -48,14 +48,14 @@ Selected Honors and Awards
 Teaching Experience
 ===================
 * 2017, Invited Lecturer, MTR 3410 Weather Analysis Techniques, Metropolitan State University 
-2016, Invited Lecturer, GRAD 5203 Earth Observation for Science, Society and Sustainability Data Analytics Class, University of Oklahoma
-2015, Invited Lecturer, CS 4033/5033 Machine Learning Class, University of Oklahoma
-2015, Invited Lecturer, Unidata Users Workshop
-2014, Teaching Assistant, The Power and Elegance of Computational Thinking
-2010-12, Instructor, Oklahoma Weather Lab Python Tutorial Series
+* 2016, Invited Lecturer, GRAD 5203 Earth Observation for Science, Society and Sustainability Data Analytics Class, University of Oklahoma
+* 2015, Invited Lecturer, CS 4033/5033 Machine Learning Class, University of Oklahoma
+* 2015, Invited Lecturer, Unidata Users Workshop
+* 2014, Teaching Assistant, The Power and Elegance of Computational Thinking
+* 2010-12, Instructor, Oklahoma Weather Lab Python Tutorial Series
 
 Professional Skills
 ===================
-Programming Languages: Proficient: Python; Experience: R, Java, C++, Javascript, PHP, MATLAB, C-Shell, Fortran, SQL\\
-Software Packages: Tensorflow, Keras, scikit-learn, WRF, pandas, matplotlib, Jupyter, IDV, GEMPAK, Google Maps API, Weka\\
-Code Management: Git, Github, Gitlab, and SVN 
+* Programming Languages: Proficient: Python; Experience: R, Java, C++, Javascript, PHP, MATLAB, C-Shell, Fortran, SQL\\
+* Software Packages: Tensorflow, Keras, scikit-learn, WRF, pandas, matplotlib, Jupyter, IDV, GEMPAK, Google Maps API, Weka\\
+* Code Management: Git, Github, Gitlab, and SVN 

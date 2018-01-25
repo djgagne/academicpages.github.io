@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# David John Gagne
 I am an Advanced Study Program Postdoctoral Fellow at the National Center for Atmospheric Research. My research focuses on the integration of machine learning with high impact weather forecasting.
