@@ -11,7 +11,7 @@ title                    : "David John Gagne II"
 title_separator          : "-"
 name                     : &name "David John Gagne II"
 description              : &description "ASP Postdoctoral Fellow at the National Center for Atmospheric Research"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://djgagne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "djgagne/djgagne.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@DJGagneDos"
+  username               : &twitter "DJGagneDos"
 facebook:
   username               :
   app_id                 :
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "David John Gagne II"
-  avatar           : "profile.png"
+  avatar           : "djgagne_profile.jpg"
   bio              : "ASP Postdoctoral Fellow"
   location         : "Boulder, CO"
   employer         : "National Center for Atmospheric Research"
   googlescholar    : "https://scholar.google.com/citations?user=yEhSbrUAAAAJ&hl=en&oi=ao"
-  email            : "dgagne at ucar dot edu"
+  email            : "dgagne@ucar.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-0469-2740"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@DJGagneDos"
+  twitter          : "DJGagneDos"
   vine             :
   weibo            :
   xing             :
